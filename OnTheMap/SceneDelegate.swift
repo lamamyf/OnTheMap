@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  OnTheMap
 //
-//  Created by user174050 on 7/10/20.
-//  Copyright © 2020 lama. All rights reserved.
+//  Created by Lama AlMayouf on 7/10/20.
+//  Copyright © 2020 Lama AlMayouf. All rights reserved.
 //
 
 import UIKit
